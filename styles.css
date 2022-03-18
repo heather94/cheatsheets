@@ -1,0 +1,19 @@
+body {
+  font-family: Helvetica;
+}
+thead {
+  background-color: green;
+  color: white;
+  font-size: bold;
+}
+th {
+  padding: 10px 5px;
+}
+td {
+  background-color: black;
+  color: white;
+  padding: 10px 5px;
+}
+.tag {
+  font-family: monospace;
+}
